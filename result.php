@@ -1,6 +1,6 @@
 <?php
 
-if(isset($_POST['q1']) && isset($_POST['q1']) && isset($_POST['q1']) && isset($_POST['q1'])){
+if(isset($_POST['q1']) && isset($_POST['q2']) && isset($_POST['q3']) && isset($_POST['q4'])){
 
     $marks_1 = $_POST['q1'];
     $marks_2 = $_POST['q2'];
